@@ -1,0 +1,11 @@
+command:
+  site:
+    install:
+      options:
+        db-prefix: 'dp_'
+        account-mail: >
+          ryazan.carschool@mail.ru
+        site-name: >
+          Автошкола
+        locale: 'ru'
+        account-name: 'admincar'
